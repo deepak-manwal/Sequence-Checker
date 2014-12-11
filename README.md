@@ -11,10 +11,10 @@ There are two solutions in this repository. Both have solution but in different 
 Description
 ================
 
-logic.php:
+logic.php
 -------
 
-Its logical soltion i have created to check sequence in password. I have used simple for loops and array for this solution. Gives repeted string and its times also.
+Its logical solution i have created to check sequence in password. I have used simple **for** loops and **array** for this solution. Gives repeted string and its times also.
 
 **Input**
 
@@ -37,7 +37,7 @@ Its also a good solution using Regular Expressions. Its faster and simple then l
 
 	GOOGLE Rejected (O is repeated)
 
-Note: Both soltion is not checking for case sensitive Password, for instance see following:
+Note: Both solution is not checking for case sensitive Password, for instance see following:
 
 **Input**
 
@@ -51,4 +51,4 @@ Note: Both soltion is not checking for case sensitive Password, for instance see
 Reason GoOGLE is Accepted
 -------
 
-Its a valid password because both 'o' and 'O' are of different case.
+Its a valid password because both 'o' and 'O' are in different case.
